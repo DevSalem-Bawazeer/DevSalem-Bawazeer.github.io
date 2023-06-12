@@ -1,1 +1,344 @@
-# DevSalem-Bawazeer.github.io
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Dev Orwa Salim</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/logo.jpg" rel="icon">
+  <link href="assets/img/logo.jpg" rel="apple-touch-icon">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center justify-content-between">
+
+      <h1 class="logo"><a href="index.html">Dev-Orwa Salim</a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#services">Certificates</a></li>
+          <li><a class="nav-link scrollto" href="#work">Work</a></li>
+          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <div id="hero" class="hero route bg-image" style="background-image: url(assets/img/hero-bg.jpg)">
+    <div class="overlay-itro"></div>
+    <div class="hero-content display-table">
+      <div class="table-cell">
+        <div class="container">
+          <p class="display-6 color-d">Engineer</p>
+          <h1 class="hero-title mb-4">Orwa Salim Bafaqeer</h1>
+          <p class="hero-subtitle"><span class="typed" data-typed-items="DevOps"></span><span class="typed-cursor" aria-hidden="true">|</span></p>
+          <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p>
+        </div>
+      </div>
+    </div>
+  </div><!-- End Hero Section -->
+
+  <main id="main">
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about-mf sect-pt4 route">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="box-shadow-full">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="row">
+                    <div class="col-sm-6 col-md-5">
+                      <div class="about-img">
+                        <img src="assets/img/testimonial-2.jpg" class="img-fluid rounded b-shadow-a" alt="">
+                      </div>
+                    </div>
+                    <div class="col-sm-6 col-md-7">
+                      <div class="about-info">
+                        <p><span class="title-s">Name: </span> <span>Orwa Salim Bafaqeer</span></p>
+                        <p><span class="title-s">Profile: </span> <span>DevOps</span></p>
+                        <p><span class="title-s">Email: </span> <a href="mailto: orwasalim@gmail.com" target="_blank">orwasalim@gmail.com</a></p>
+                        <p><span class="title-s">Birth Day: </span> <span>21 / 3 / 1998</span></p>
+                        <p><span class="title-s">GitHub: </span> <a href="https://github.com/Orwa-Salim" target="_blank">Orwa-Salim</a></p>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+                <div class="col-md-6">
+                  <div class="about-me pt-4 pt-md-0">
+                    <div class="title-box-2">
+                      <h5 class="title-left">
+                        About me
+                      </h5>
+                    </div>
+                    <p class="lead" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif">
+                      👨&zwj;💻 As a DevOps Engineer, I have extensive experience with cloud computing platforms such as AWS (IAM, EC2, RDS, S3, Lambda, KMS...etc) and Oracle Cloud Infrastructure. I am adept at creating and deploying highly scalable and resilient infrastructure on these platforms using tools such as Terraform.
+                      <br><br>
+                      🐳 I have proficiency in containerization technologies such as Docker and Kubernetes and have designed and implemented container orchestration solutions for various applications.
+                      <br><br>
+                      🚀 I am experienced in implementing CI/CD pipelines with tools such as Semaphore, and GitHub Actions, which enable faster and more efficient software delivery.
+                      <br><br>
+                      🌐 I have worked with various networking and security technologies such as Palo Alto Networks, F5 BigIP, and HashiCorp Vault to ensure secure and reliable communication between applications and users.
+                      <br><br>
+                      💻 I am also proficient in bash scripting, which allows me to automate repetitive tasks and improve overall system efficiency.
+                      <br><br>
+                      ♾️ Overall, my focus as a DevOps Engineer is to ensure that teams can deliver high-quality software quickly and reliably while maintaining a secure and scalable infrastructure.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="skill-mf">
+                    <h4 id="skills" class="">Skills</h4>
+                    <span>Amazon Web Services (AWS)</span> <span class="pull-right">90%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 90%;" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <span>Cloud Computing</span> <span class="pull-right">75%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <span>Bash Shell Scripts</span> <span class="pull-right">85%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <span>Palo Alto Networks</span> <span class="pull-right">50%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="skill-mf" style="margin-top: 43px;">
+                    <span>Kubernetes</span> <span class="pull-right">80%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <span>CICD</span> <span class="pull-right">70%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <span>HashiCorp Vault</span> <span class="pull-right">95%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <span>F5 BigIP</span> <span class="pull-right">60%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services-mf pt-5 route">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="title-box text-center">
+              <h3 class="title-a">
+                Certificates
+              </h3>
+              <div class="line-mf"></div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="service-box">
+              <div class="service-ico">
+                <span class="ico-circle"><i class="aws"></i></span>
+              </div>
+              <div class="service-content">
+                <h2 class="s-title">AWS Certified Cloud Practitioner</h2>
+                <p class="s-description text-center">
+                  Issuing Organization: A Cloud Guru
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-box">
+              <div class="service-ico">
+                <span class="ico-circle"><i class="tcpip"></i></span>
+              </div>
+              <div class="service-content">
+                <h2 class="s-title">Cloud and TCP/IP Pre-Requisite Knowledge</h2>
+                <p class="s-description text-center">
+                  Issuing Organization: DolfinED
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-box">
+              <div class="service-ico">
+                <span class="ico-circle"><i class="linux"></i></span>
+              </div>
+              <div class="service-content">
+                <h2 class="s-title">Linux Professional Institute (LPI)</h2>
+                <p class="s-description text-center">
+                  Issuing Organization: Linux Academy
+                </p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section><!-- End Services Section -->
+
+    <!-- ======= Testimonials Section ======= -->
+    <div id="work" class="testimonials paralax-mf bg-image sect-pt4 route" style="background-image: url(assets/img/overlay-bg.jpg)">
+       <div class="overlay-mfc"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+
+            <div class="testimonials-slider swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden" data-aos="fade-up" data-aos-delay="100">
+              <div class="swiper-wrapperc">
+
+                <div class="swiper-slide">
+                  <div class="testimonial-box">
+                    <div class="author-test">
+                      <img src="assets/img/JisrLogo.9b7fdbda2.svg" alt="" class="b-shadow-a">
+                      <span class="author hero-title mb-4">Jisr System for Human Resource</span>
+                    </div>
+                    <div class="content-test">
+                      <p class="description lead">
+                        Working as DevOps Engineer since 1/9/2021 till now.
+                      </p>
+                    </div>
+                  </div>
+                </div><!-- End testimonial item -->
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+
+            <div id="testimonial-mf" class="owl-carousel owl-theme">
+          
+        </div> 
+          </div>
+        </div>
+      </div> 
+    </div> <!--End Testimonials Section-->
+
+      <!-- ======= Contact Section ======= -->
+      <section id="contact" class=" sect-pt4 paralax-mf footer-paralax bg-image sect-mt4 route" style="background-image: url(assets/img/overlay-bg.jpg)">
+        <div class="overlay-mf"></div>
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="contact-mf">
+                <div id="contaact" class="box-shadow-full">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="title-box-2 pt-4 pt-md-0">
+                        <h5 class="title-left">
+                          Get in Touch
+                        </h5>
+                      </div>
+                      <div class="more-info">
+                        <ul class="list-ico">
+                          <!-- <li><span class="bi bi-geo-alt"></span> 329 WASHINGTON ST BOSTON, MA 02108</li> -->
+                          <li><span class="bi bi-phone"></span> 00 967 737 773 872</li>
+                          <li><span class="bi bi-envelope"></span> orwasalim@gmail.com</li>
+                        </ul>
+                      </div>
+                      <div class="socials">
+                        <ul>
+                          <li><a target="_blank" href="https://linkedin.com/in/orwa-salim-bafaqeer-6930a9205"><span class="ico-circle"><i class="bi bi-linkedin"></i></span></a></li>
+                          <li><a target="_blank" href="https://www.facebook.com/orwaba"><span class="ico-circle"><i class="bi bi-facebook"></i></span></a></li>
+                          <li><a target="_blank" href="https://www.instagram.com/orwa.x"><span class="ico-circle"><i class="bi bi-instagram"></i></span></a></li>
+                          <li><a target="_blank" href="https://twitter.com/OBafaqeer"><span class="ico-circle"><i class="bi bi-twitter"></i></span></a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section> <!--End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="copyright-box">
+            <p class="copyright">© Copyright <strong>OrwaSalim</strong>. All Rights Reserved</p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer><!-- End  Footer -->
+
+  <!-- <div id="preloader"></div> -->
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/typed.js/typed.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script><style type="text/css" data-typed-js-css="true">
+        .typed-cursor{
+          opacity: 1;
+        }
+        .typed-cursor.typed-cursor--blink{
+          animation: typedjsBlink 0.7s infinite;
+          -webkit-animation: typedjsBlink 0.7s infinite;
+                  animation: typedjsBlink 0.7s infinite;
+        }
+        @keyframes typedjsBlink{
+          50% { opacity: 0.0; }
+        }
+        @-webkit-keyframes typedjsBlink{
+          0% { opacity: 1; }
+          50% { opacity: 0.0; }
+          100% { opacity: 1; }
+        }
+      </style>
+
+
+
+</body></html>
